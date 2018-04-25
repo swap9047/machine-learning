@@ -63,3 +63,5 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+projects/digit_recognition/test.tar.gz
+projects/digit_recognition/train.tar.gz
