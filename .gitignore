@@ -65,3 +65,5 @@ target/
 .ipynb_checkpoints
 projects/digit_recognition/test.tar.gz
 projects/digit_recognition/train.tar.gz
+projects/digit_recognition/test_32x32.mat
+projects/digit_recognition/train_32x32.mat
